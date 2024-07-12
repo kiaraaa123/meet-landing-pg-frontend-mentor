@@ -1,0 +1,50 @@
+/* Site Stylesheet
+  1. Global Styles
+  2. Typography Styles
+  3. Structure Styles
+  4. Module Styles
+  5. Component Styles
+  6. Page Styles
+  7. Media Queries
+======================================== */
+
+/* 1. Global Styles
+======================================== */
+* {
+    /* Brand Colors */
+    --teal: #4D96A9;
+    --dark-purple: #855FB1;
+    --dark-blue: #28283D;
+    --slate: #87879D;
+    --light-blue: #8FE3F9;
+    --light-purple: #D9B8FF;
+    --white: #FAFAFA;
+
+    /* Fonts */
+    --font: "Red Hat Display"
+
+}
+
+/* 2. Typography Styles
+======================================== */
+
+
+/* 3. Structure Styles
+======================================== */
+
+
+/* 4. Modules Styles
+======================================== */
+/* Site Navigation */
+/* Site Footer */
+
+/* 5. Component Styles
+======================================== */
+
+
+/* 6. Page Styles
+======================================== */
+
+
+/* 7. Media Queries
+======================================== */
